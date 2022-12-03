@@ -1,7 +1,7 @@
 import java.lang.RuntimeException
 
 /**
- * [Day01](https://adventofcode.com/2022/day/1)
+ * [Day02](https://adventofcode.com/2022/day/2)
  */
 fun main() {
     fun judge(self: Shape, opponent: Shape): Int = when {
